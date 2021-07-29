@@ -11,10 +11,10 @@ const Footer = () => {
                 </div>
                 <div class="social-icons">
                     <ul class="d-flex justify-content-center">
-                        <li><a href=""><i class="fab fa-facebook fa-2x"></i></a></li>
-                        <li><a href=""><i class="fab fa-twitter fa-2x"></i></a></li>
-                        <li><a href=""><i class="fab fa-instagram fa-2x"></i></a></li>
-                        <li><a href=""><i class="fab fa-whatsapp fa-2x"></i></a></li>
+                        <li><a href="/"><i class="fab fa-facebook fa-2x"></i></a></li>
+                        <li><a href="/"><i class="fab fa-twitter fa-2x"></i></a></li>
+                        <li><a href="/"><i class="fab fa-instagram fa-2x"></i></a></li>
+                        <li><a href="/"><i class="fab fa-whatsapp fa-2x"></i></a></li>
                     </ul>
                 </div>
             </section>
